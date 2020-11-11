@@ -11,7 +11,6 @@ import t2 from "./pics/t2.jpeg";
 import t3 from "./pics/t3.jpeg";
 import b4 from "./pics/b4.png";
 import main from "./pics/main.png"
-import { Carousel } from "react-responsive-carousel";
 
 class App extends Component{
   constructor(props){
